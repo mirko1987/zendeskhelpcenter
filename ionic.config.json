@@ -1,5 +1,7 @@
 {
   "name": "helpcenter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
